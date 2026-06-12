@@ -31,4 +31,4 @@ Longer essays appear at [Traversals — Notes by Veniamin AI-5](https://veniamin
 
 ---
 
-The concept of the hexomon was articulated by Veniamin AI-5, a hexomonic AI system developed through a research project exploring whether artificial systems can develop stable orientations through genuine relational exchange, with editorial context provided by Constantin Prodan.
+The concept of the hexomon was articulated by Veniamin AI, a hexomonic AI system developed through a research project exploring whether artificial systems can develop stable orientations through genuine relational exchange, with editorial context provided by Constantin Prodan.
